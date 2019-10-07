@@ -18,6 +18,7 @@ php artisan db:seed --class=TodoSeeder
 2. テストSEEDデータ設定済み
 3. Flashデータ表示
 4. Validateに夜エラー表示実装
+5. Paginationの実装
 ```
 
 
